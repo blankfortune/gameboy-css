@@ -141,7 +141,7 @@ input.btn-hide {
   transition: background-color 300ms linear;
 }
 .gameboy .screen-cont .power:before {
-  content: "BATTERY";
+  content: "BLANK FORTUNE";
   position: relative;
   top: 18px;
   left: -10px;
