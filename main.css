@@ -102,7 +102,7 @@ input.btn-hide {
   display: inline;
   position: relative;
   top: -26px;
-  left: 15%;
+  left: 30%;
   color: #8a891f;
   font-size: 17px;
   font-family: "Pretendo";
@@ -144,7 +144,7 @@ input.btn-hide {
   content: "BLANK FORTUNE";
   position: relative;
   top: 18px;
-  left: -10px;
+  left: -15px;
   font-size: 8px;
   font-family: sans-serif;
   color: #b3b3b3;
