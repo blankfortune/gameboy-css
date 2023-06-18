@@ -8,8 +8,8 @@ body
 
   
 
-  input.btn-on(type="button", value="POWER ON")
-  input.btn-off.btn-hide(type="button", value="POWER OFF")
+  input.btn-on(type="button", value="ON")
+  input.btn-off.btn-hide(type="button", value="OFF")
 
   audio(src="sound/gameboy-sound.mp3")
   .gameboy

@@ -12,7 +12,7 @@ input.btn-off {
   display: block;
   margin: 0 auto;
   font-family: sans-serif;
-  text-align: center;
+  text-align: auto;
 }
 input.btn-hide {
   display: none;
@@ -141,10 +141,10 @@ input.btn-hide {
   transition: background-color 300ms linear;
 }
 .gameboy .screen-cont .power:before {
-  content: "BLANK FORTUNE";
+  content: "BlankFortune";
   position: relative;
   top: 18px;
-  left: -15px;
+  left: -45px;
   font-size: 8px;
   font-family: sans-serif;
   color: #b3b3b3;
